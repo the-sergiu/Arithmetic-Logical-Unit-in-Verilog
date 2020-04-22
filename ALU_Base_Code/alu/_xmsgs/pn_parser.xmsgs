@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated   -->
+<!--     by the Xilinx ISE software.  Any direct editing or        -->
+<!--     changes made to this file may result in unpredictable     -->
+<!--     behavior or data corruption.  It is strongly advised that -->
+<!--     users do not edit the contents of this file.              -->
+<!--                                                               -->
+<!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.    -->
+
+<messages>
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Sergiu/Google Drive/Semestrul 1/Arhitectura Calculatoarelor/Tema2/alu_patch1 (1)/alu/alu.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Sergiu/Google Drive/Semestrul 1/Arhitectura Calculatoarelor/Tema2/alu_patch1 (1)/alu/alu_regfile.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Sergiu/Google Drive/Semestrul 1/Arhitectura Calculatoarelor/Tema2/alu_patch1 (1)/alu/alu_test.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/Sergiu/Google Drive/Semestrul 1/Arhitectura Calculatoarelor/Tema2/alu_patch1 (1)/alu/alu_test.v</arg>&quot; Line <arg fmt="%d" index="2">111</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Sergiu/Google Drive/Semestrul 1/Arhitectura Calculatoarelor/Tema2/alu_patch1 (1)/alu/expected.out&apos; in file &quot;C:/Users/Sergiu/Google Drive/Semestrul 1/Arhitectura Calculatoarelor/Tema2/alu_patch1 (1)/alu/alu_test.v&quot; line 111
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/Sergiu/Google Drive/Semestrul 1/Arhitectura Calculatoarelor/Tema2/alu_patch1 (1)/alu/alu_test.v</arg>&quot; Line <arg fmt="%d" index="2">112</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Sergiu/Google Drive/Semestrul 1/Arhitectura Calculatoarelor/Tema2/alu_patch1 (1)/alu/instructions.out&apos; in file &quot;C:/Users/Sergiu/Google Drive/Semestrul 1/Arhitectura Calculatoarelor/Tema2/alu_patch1 (1)/alu/alu_test.v&quot; line 112
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Sergiu/Google Drive/Semestrul 1/Arhitectura Calculatoarelor/Tema2/alu_patch1 (1)/alu/alu_top.v&quot; into library work</arg>
+</msg>
+
+</messages>
+

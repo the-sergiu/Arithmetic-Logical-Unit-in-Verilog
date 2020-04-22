@@ -1,0 +1,2 @@
+test base: 971 correct out of 1000 ( 97.10% completed)
+ -0.29: test base failed in 33008 clock cycles

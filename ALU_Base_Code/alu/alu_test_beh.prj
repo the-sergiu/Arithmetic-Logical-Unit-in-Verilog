@@ -1,0 +1,5 @@
+verilog work "alu_regfile.v"
+verilog work "alu.v"
+verilog work "alu_top.v"
+verilog work "alu_test.v"
+verilog work "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"
