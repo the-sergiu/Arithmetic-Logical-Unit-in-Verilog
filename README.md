@@ -6,7 +6,7 @@ The ALU had to fulfill basic functionalities/operations, such as ADD, AND, OR, X
 SHR, with different types of memory addressing and varying number of operands. 
 Implemented in Verilog, using Xilinx IDE.
 
-Passes 973/1000 Tests.
+Passes 971/1000 Tests.
 
 ## Result
 ![Result Image](ac.JPG)
