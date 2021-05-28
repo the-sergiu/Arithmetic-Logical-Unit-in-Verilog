@@ -1,4 +1,5 @@
-# Intel Avalon Arithmetic Logical Unit - Computer Architecture Assignment
+# Intel Avalon Arithmetic Logical Unit 
+#### Computer Architectures Assignment
 
 Task was to implement the functionalities of an ALU, based on a master-slave principle. 
 The code was based upon the Intel Avalon Memory scheme (slave), with the ALU being the master. 
